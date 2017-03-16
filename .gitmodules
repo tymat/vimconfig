@@ -1,0 +1,57 @@
+[submodule "bundle/ag"]
+	path = bundle/ag
+	url = git@github.com:rking/ag.vim.git
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = git@github.com:flazz/vim-colorschemes.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = git@github.com:kien/ctrlp.vim.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle/rust"]
+	path = bundle/rust
+	url = git@github.com:rust-lang/rust.vim.git
+[submodule "bundle/solidity"]
+	path = bundle/solidity
+	url = git@github.com:tymat/vim-solidity.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git@github.com:vim-syntastic/syntastic.git
+[submodule "bundle/typescript"]
+	path = bundle/typescript
+	url = git@github.com:leafgarland/typescript-vim.git
+[submodule "bundle/angular"]
+	path = bundle/angular
+	url = git@github.com:burnettk/vim-angular.git
+[submodule "bundle/crystal"]
+	path = bundle/crystal
+	url = git@github.com:rhysd/vim-crystal.git
+[submodule "bundle/elixir"]
+	path = bundle/elixir
+	url = git@github.com:elixir-lang/vim-elixir.git
+[submodule "bundle/go"]
+	path = bundle/go
+	url = git@github.com:fatih/vim-go.git
+[submodule "bundle/javascriptsyntax"]
+	path = bundle/javascriptsyntax
+	url = git@github.com:jelera/vim-javascript-syntax.git
+[submodule "bundle/jsx"]
+	path = bundle/jsx
+	url = git@github.com:mxw/vim-jsx.git
+[submodule "bundle/multiplecursors"]
+	path = bundle/multiplecursors
+	url = git@github.com:terryma/vim-multiple-cursors.git
+[submodule "bundle/racer"]
+	path = bundle/racer
+	url = git@github.com:ebfe/vim-racer.git
+[submodule "bundle/slim"]
+	path = bundle/slim
+	url = git@github.com:slim-template/vim-slim.git
+[submodule "bundle/toml"]
+	path = bundle/toml
+	url = git@github.com:cespare/vim-toml.git
