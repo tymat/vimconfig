@@ -19,7 +19,7 @@ map – :tabp<CR>
 map þ :tabedit<CR>
 set hidden
 set number
-set guifont=Inconsolata:h16
+set guifont=Inconsolata:h20
 set guioptions-=r
 set guioptions-=L
 set guioptions-=T
@@ -40,3 +40,4 @@ autocmd InsertLeave * highlight CursorColumn guibg=#2f343d
 set mouse+=a
 set clipboard+=unnamed
 set guioptions-=e
+set directory=$HOME/.vimswap/
