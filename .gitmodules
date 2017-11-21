@@ -55,3 +55,15 @@
 [submodule "bundle/toml"]
 	path = bundle/toml
 	url = git@github.com:cespare/vim-toml.git
+[submodule "bundle/nginx"]
+	path = bundle/nginx
+	url = git@github.com:chr4/nginx.vim.git
+[submodule "bundle/dracula-theme"]
+	path = bundle/dracula-theme
+	url = git@github.com:dracula/vim.git
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = git@github.com:SirVer/ultisnips.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = git@github.com:honza/vim-snippets.git
